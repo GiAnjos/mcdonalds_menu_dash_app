@@ -9,3 +9,12 @@ In the page "analytics" you will first see the items in the indian mc donalds me
 
 In the page "archive" you will find a button to upload files, you can upload cvs and xls files and see them entirely afterwards.
 
+The dataset that I am using in this project is from kaggle. You can check it out in this link: https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
+
+Here are the links from the documentation that I used to create this app:
+https://dash.plotly.com/urls
+https://plotly.com/python/line-charts/
+https://dash.plotly.com/dash-core-components/dropdown
+https://dash.plotly.com/dash-core-components/upload
+
+I also used the knowledge that I got from the DataCamp dash course. You can find out more about the course in here: https://app.datacamp.com/learn/courses/building-dashboards-with-dash-and-plotly
