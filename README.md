@@ -14,8 +14,11 @@ The dataset that I am using in this project is from kaggle. You can check it out
 
 Here are the links from the documentation that I used to create this app:
 -https://dash.plotly.com/urls
+
 -https://plotly.com/python/line-charts/
+
 -https://dash.plotly.com/dash-core-components/dropdown
+
 -https://dash.plotly.com/dash-core-components/upload
 
 I also used the knowledge that I got from the DataCamp dash course. You can find out more about the course in here:
